@@ -1,3 +1,3 @@
-def calculate_salary(employees=None):
+def calculate_salary(employees):
     print("calculate_salary вызвана.")
     print("Полученные сотрудники:", employees)
